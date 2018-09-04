@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@target-corp/react-native-svg-parser": "^1.0.6",
     "@types/react-click-outside": "^3.0.2",
     "react": "^16.4.2",
     "react-click-outside": "github:tj/react-click-outside",
     "react-color": "^2.14.1",
     "react-dom": "^16.4.2",
+    "react-native": "^0.56.0",
+    "react-native-svg": "^6.5.2",
     "react-scripts": "1.1.4"
   },
   "scripts": {
